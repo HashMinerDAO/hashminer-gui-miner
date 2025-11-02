@@ -34,7 +34,7 @@
     "eth-lightwallet": "^4.0.0",
     "ethereum-qr-code": "^0.3.0",
     "ethereumjs-tx": "^2.1.2",
-    "koinos-miner": "https://github.com/open-orchard/koinos-miner.git",
+    "koinos-miner": "file:./local-deps/koinos-miner",
     "web3": "^1.2.11"
   },
   "resolutions": {
